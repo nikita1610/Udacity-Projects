@@ -1,4 +1,4 @@
-# Udacity-Projects
+# Udacity Data Analyst Nanodegree Projects
 
 This repository basically contains all the projects done and submitted for Udacity Data Anaylst Nanodegree Program
 
